@@ -12,7 +12,7 @@ title                    : "James's Homepage"
 title_separator          : "-"
 name                     : &name "Vilho James"
 description              : &description "personal description"
-url                      : https://vilho.github.io 
+url                      : https://vilho.github.io  
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jamesvilho/vilho.github.io"
 
@@ -23,7 +23,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Vilho James"
-  pronouns         : # example: "she/her"  
   bio              : "Multi-Modal Learning"
   location         : "Shenzhen, PRC"
   employer         : "Harbin Institute of Technology"
@@ -44,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "vilho"
+  github           : "jamesvilho"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
